@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MTE280H33-UV
+K LED
+$ENDCMP
+#
+$CMP UV_LED
+K LED
+$ENDCMP
+#
+#End Doc Library
