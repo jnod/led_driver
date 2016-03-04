@@ -66,10 +66,10 @@ F 3 "" H 6050 3200 60  0000 C CNN
 	1    6050 3200
 	1    0    0    -1  
 $EndComp
-Text Label 6600 3150 0    60   ~ 0
-+V
-Text Label 6600 3450 0    60   ~ 0
--V
+Text Label 6800 3150 2    60   ~ 0
+12V
+Text Label 6800 3450 2    60   ~ 0
+PDN1
 Wire Wire Line
 	6050 3950 6050 3900
 Wire Wire Line
